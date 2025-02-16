@@ -16,7 +16,6 @@ cheep	KHAOEP
 bare	PWAEUR
 bail	PWAEUL
 beet	PWAOET
-Male	PHAEUL
 meet	PHAOET
 maid	PHAEUD
 maize	PHAEUZ
@@ -24,7 +23,6 @@ pair	PAEUR
 pail	PAEUL
 piece	PAOES
 ware	WAEUR
-Leed	HRAOED
 here	HAOER
 heel	HAOEL
 reel	RAOEL
@@ -58,7 +56,6 @@ pear	PAER
 pale	PAEL
 peace	PAES
 wear	WAER
-lead	HRAED
 hear	HAER
 heal	HAEL
 real	RAEL
